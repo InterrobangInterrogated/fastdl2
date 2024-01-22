@@ -1,3 +1,1 @@
-this is another repository for my TF2C fastDL.
-
-may eventually be available for other servers aswell.
+this is the repository I use when hosting servers in games that run under either the GoldSRC or Source engine.
