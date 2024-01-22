@@ -1,1 +1,2 @@
-Panacek on GB: Pancake's Pack for TF2C
+Panacek: Pancake's Pack for TF2C
+WhiteWolf_X: cp_orange_x.bsp
