@@ -1,2 +1,3 @@
 WhiteWolf_X: cp_orange_x.bsp
 hl2mukkel: pl_orange_x_b2
+shualdock: Mannly Munitions

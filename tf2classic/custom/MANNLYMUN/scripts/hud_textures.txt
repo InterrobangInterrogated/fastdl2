@@ -1,0 +1,16 @@
+	#base "custom_hud/Mannly Munitions.txt"
+
+"custom_kill_icons"
+{
+	TextureFileRefs
+	{
+		"dfile"
+		{
+			"prefix"		"d_"
+		}
+		"dnegfile"
+		{
+			"prefix"		"dneg_"
+		}
+	}
+}
