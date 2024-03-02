@@ -1,4 +1,0 @@
-particles_manifest
-{
-	"file"		"!particles/renaissance_revival_v2_0_particles.pcf"
-}

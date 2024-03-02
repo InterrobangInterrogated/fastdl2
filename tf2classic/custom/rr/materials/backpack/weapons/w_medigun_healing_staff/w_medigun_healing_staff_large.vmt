@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "backpack/weapons/w_medigun_healing_staff/w_medigun_healing_staff_large"
-	"$translucent" 1
-	$vertexcolor 1
-}
