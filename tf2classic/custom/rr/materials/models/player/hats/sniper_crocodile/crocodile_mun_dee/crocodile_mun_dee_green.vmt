@@ -1,0 +1,10 @@
+"patch"
+{
+	include	"materials/models/player/hats/sniper_crocodile/crocodile_mun_dee/crocodile_mun_dee_red.vmt"
+	
+	insert
+	{
+		"$colortint_base"	"{ 112 121 90 }"
+		"$color2"		"{ 112 121 90 }"
+	}
+}

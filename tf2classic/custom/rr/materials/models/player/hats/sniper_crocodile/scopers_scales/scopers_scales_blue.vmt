@@ -1,0 +1,10 @@
+"patch"
+{
+	include	"materials/models/player/hats/sniper_crocodile/scopers_scales/scopers_scales_red.vmt"
+	
+	insert
+	{
+	"$colortint_base"		"{114 135 134 }"
+	"$color2"		"{ 114 135 134 }"
+	}
+}
